@@ -1,4 +1,4 @@
-# > This project from [Daniel Beach](https://github.com/danielbeach/data-engineering-practice). Forked and modified for personal practice.
+# > This project is from [Daniel Beach](https://github.com/danielbeach/data-engineering-practice). Forked and modified for personal practice.
 
 ## Data Engineering Practice Problems
 
